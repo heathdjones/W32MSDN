@@ -1,5 +1,6 @@
 // W32MSDN1ST.cpp : Defines the entry point for the application.
 // this line just here to test GIT
+// this line is to test a second commit using -a and -m
 
 #include "stdafx.h"
 #include "W32MSDN1ST.h"
