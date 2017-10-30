@@ -1,6 +1,4 @@
-*.ico
 *.txt
-*.vcxproj
 *.filters
 
 # Prerequisites (added from github good gitignore files)
