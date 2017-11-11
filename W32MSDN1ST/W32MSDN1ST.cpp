@@ -1,7 +1,8 @@
 // W32MSDN1ST.cpp : Defines the entry point for the application.
 // this line just here to test GIT
 // third commitbb
-// 2nd commit from vstudio  sdsdfsd
+// 2nd commit from vstudio
+// 3rd commit from vstudio
 
 #include "stdafx.h"
 #include "W32MSDN1ST.h"
