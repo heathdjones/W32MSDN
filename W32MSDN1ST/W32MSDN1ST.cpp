@@ -1,6 +1,6 @@
 // W32MSDN1ST.cpp : Defines the entry point for the application.
 // this line just here to test GIT
-// third commit
+// third commitbb
 // commit 5?
 
 #include "stdafx.h"
